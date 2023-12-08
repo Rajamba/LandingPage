@@ -1,0 +1,28 @@
+.navbar{
+   display: flex; 
+   background-color: white;
+   height: 40px;
+   justify-content: space-between;
+}
+
+.logo{
+height: 25px;
+
+}
+ .hamburger{
+    display: flex;
+     gap: 80px;
+}
+.Search-button{
+height: 20px;
+width: 100px;
+}
+.general{
+    background-color: rgba(0, 60, 255, 0.486);
+    height: 100vh;
+    width: 100vw;
+}
+.below{
+    height: 60px;
+    background-color: rgba(0, 255, 255, 0.938);
+}
